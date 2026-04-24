@@ -4,6 +4,8 @@
 
 This project analyzes real estate data from Gurugram to uncover pricing trends, locality-wise insights, and key factors influencing property prices. The analysis focuses on data cleaning, exploratory data analysis (EDA), and answering business-driven questions.
 
+Dataset link : https://www.kaggle.com/datasets/nikhilmehrahr26/gurgaon-real-estate-dataset?resource=download
+
 ---
 
 ## 🛠️ Tools & Technologies
